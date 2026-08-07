@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <circle cx="100" cy="100" r="94" fill="#1d4ed8" opacity="0.08"/>
+  <circle cx="100" cy="100" r="94" fill="none" stroke="#1d4ed8" stroke-width="3"/>
+  <g stroke="#1d4ed8" stroke-width="3" fill="none">
+    <ellipse cx="100" cy="65" rx="38" ry="14"/>
+    <path d="M62 65 v55 a38 14 0 0 0 76 0 v-55"/>
+    <path d="M62 92 a38 14 0 0 0 76 0" fill="none"/>
+  </g>
+  <text x="100" y="182" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#1d4ed8" font-weight="600">RDBMS</text>
+</svg>
